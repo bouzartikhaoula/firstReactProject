@@ -14,9 +14,9 @@ const Navigation = () => {
 
 <Navbar >
         <Container>
-        <Navbar.Brand href="#home" style={{fontFamily:"Lobster"}}>Foodieland</Navbar.Brand>
+        <Navbar.Brand href="/" style={{fontFamily:"Lobster"}}>Foodieland</Navbar.Brand>
          <Nav>
-            <Nav.Link href="/home">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/recipes">Recipes</Nav.Link>
             <Nav.Link href="/blog">Blog</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
