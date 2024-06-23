@@ -1,8 +1,12 @@
 import React from 'react'
+import Navigation from "./Navigation";
 
 const AboutUs = () => {
   return (
-    <div>AboutUs</div>
+    <>
+          <Navigation />
+
+    </>
   )
 }
 

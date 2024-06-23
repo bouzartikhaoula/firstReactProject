@@ -15,7 +15,6 @@ const Home = () => {
         <CardGroup style={{ height: "440px" }} >
           <Card className="rounded-start-5 p-4" style={{    border:"none",backgroundColor:"#E7FAFE"}}>
             <Card.Body>
-              {/* <Card.Title>Card title</Card.Title> */}
               <span class="rounded-pill p-2 mb-4" style={{width:"130px" , backgroundColor:"white" ,fontFamily:"Inter" ,fontSize:"10px"}}>
                 Hot Recipes
               </span>

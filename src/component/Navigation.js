@@ -16,11 +16,11 @@ const Navigation = () => {
         <Container>
         <Navbar.Brand href="#home" style={{fontFamily:"Lobster"}}>Foodieland</Navbar.Brand>
          <Nav>
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Recipes</Nav.Link>
-            <Nav.Link href="#pricing">Blog</Nav.Link>
-            <Nav.Link href="#pricing">Contact</Nav.Link>
-            <Nav.Link href="#pricing">About us</Nav.Link>
+            <Nav.Link href="/home">Home</Nav.Link>
+            <Nav.Link href="/recipes">Recipes</Nav.Link>
+            <Nav.Link href="/blog">Blog</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
+            <Nav.Link href="/about">About us</Nav.Link>
 
           </Nav>
           <Nav>
