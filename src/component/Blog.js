@@ -148,7 +148,6 @@ const Blog = () => {
               </div>
             </div>
           </div>
-          <div className="col-4">jj</div>
         </div>
       </Container>
     </>
